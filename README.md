@@ -14,9 +14,9 @@ Our task is to create a dashboard with key performance metrics and provide relev
 - **dim_date**
 - **dim_hotels**
 
-## Datamodelling
+## Data Modelling
 
-<img width="478" alt="image" src="https://github.com/user-attachments/assets/12fe1fcc-75c3-4208-81c9-388be85105b6">
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/12fe1fcc-75c3-4208-81c9-388be85105b6">
 
 
 ## Key Metrics in the Hospitality Domain
@@ -31,5 +31,4 @@ Our task is to create a dashboard with key performance metrics and provide relev
 - There is a strong correlation between occupancy %, average rating, and cancellation %.
 - **Revenue by City**: Mumbai generates the highest revenue of 660M, followed by Bangalore, Hyderabad, and Chennai.
 - **Occupancy and Rating**: Delhi tops in both occupancy and rating, followed by Hyderabad, Mumbai, and Bangalore.
-
 
