@@ -6,6 +6,8 @@ Our task is to create a dashboard with key performance metrics and provide relev
 
 🔗 [Check out the dashboard here](https://shorturl.at/0YH2s)
 
+🔗 [Video Presentation](https://shorturl.at/2wG7B)
+
 ## Datasets Provided
   **CSV Files**
 - **fact_aggregated_bookings**
